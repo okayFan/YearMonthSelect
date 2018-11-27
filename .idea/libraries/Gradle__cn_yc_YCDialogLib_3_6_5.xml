@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: cn.yc:YCDialogLib-3.6.5">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/YCDialogLib-3.6.5.aar/8c5e61133a31ba5bb2479b449d5d151e/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/YCDialogLib-3.6.5.aar/8c5e61133a31ba5bb2479b449d5d151e/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/YCDialogLib-3.6.5.aar/8c5e61133a31ba5bb2479b449d5d151e/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.yc/YCDialogLib/3.6.5/65a3be9899d1c2a805ee005cba8f63528bedffce/YCDialogLib-3.6.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
